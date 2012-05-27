@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="net.rootdev_java-rdfa_0.4.2-RC2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../repository/cache/net.rootdev/java-rdfa/bundles/java-rdfa-0.4.2-RC2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../repository/cache/net.rootdev/java-rdfa/docs/java-rdfa-0.4.2-RC2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../repository/cache/net.rootdev/java-rdfa/srcs/java-rdfa-0.4.2-RC2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

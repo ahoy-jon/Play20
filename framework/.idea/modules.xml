@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea_modules/Anorm.iml" filepath="$PROJECT_DIR$/.idea_modules/Anorm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea_modules/Console.iml" filepath="$PROJECT_DIR$/.idea_modules/Console.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea_modules/Play.iml" filepath="$PROJECT_DIR$/.idea_modules/Play.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea_modules/Play-Test.iml" filepath="$PROJECT_DIR$/.idea_modules/Play-Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea_modules/Root.iml" filepath="$PROJECT_DIR$/.idea_modules/Root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea_modules/Root-build.iml" filepath="$PROJECT_DIR$/.idea_modules/Root-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea_modules/SBT-Plugin.iml" filepath="$PROJECT_DIR$/.idea_modules/SBT-Plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea_modules/Templates.iml" filepath="$PROJECT_DIR$/.idea_modules/Templates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea_modules/WebID.iml" filepath="$PROJECT_DIR$/.idea_modules/WebID.iml" />
+    </modules>
+  </component>
+</project>
+

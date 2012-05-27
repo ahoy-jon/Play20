@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jline-0.9.94.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sbt/boot/scala-2.9.1/org.scala-sbt/sbt/0.11.3/jline-0.9.94.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

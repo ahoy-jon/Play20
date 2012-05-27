@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="com.fasterxml_aalto-xml_0.9.7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../repository/cache/com.fasterxml/aalto-xml/bundles/aalto-xml-0.9.7.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../repository/cache/com.fasterxml/aalto-xml/docs/aalto-xml-0.9.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../repository/cache/com.fasterxml/aalto-xml/srcs/aalto-xml-0.9.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

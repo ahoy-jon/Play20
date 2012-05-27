@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.apache.geronimo.specs_geronimo-activation_1.0.2_spec_1.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../repository/cache/org.apache.geronimo.specs/geronimo-activation_1.0.2_spec/jars/geronimo-activation_1.0.2_spec-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

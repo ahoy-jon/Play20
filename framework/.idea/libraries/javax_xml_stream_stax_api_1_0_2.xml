@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="javax.xml.stream_stax-api_1.0-2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../repository/cache/javax.xml.stream/stax-api/jars/stax-api-1.0-2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../repository/cache/javax.xml.stream/stax-api/srcs/stax-api-1.0-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

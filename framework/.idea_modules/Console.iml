@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="scala" name="Scala">
+      <configuration>
+        <option name="compilerLibraryLevel" value="Project" />
+        <option name="compilerLibraryName" value="scala-2.9.1" />
+        <option name="fsc" value="true" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/../src/console/target/scala-2.9.1/classes" />
+    <output-test url="file://$MODULE_DIR$/../src/console/target/scala-2.9.1/test-classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../src/console">
+      <sourceFolder url="file://$MODULE_DIR$/../src/console/src/main/scala" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../src/console/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../src/console/target/scala-2.9.1/src_managed/main" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../src/console/src/main/resources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../src/console/src/test/scala" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../src/console/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../src/console/src/test/resources" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../src/console/target/scala-2.9.1/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/../src/console/target/scala-2.9.1/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../src/console/target/streams" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="com.github.scala-incubator.io_scala-io-file_2.9.1_0.4.0" level="project" />
+    <orderEntry type="library" name="com.github.scala-incubator.io_scala-io-core_2.9.1_0.4.0" level="project" />
+    <orderEntry type="library" name="org.scala-lang_scala-library_2.9.1" level="project" />
+    <orderEntry type="library" name="com.github.jsuereth.scala-arm_scala-arm_2.9.1_1.1" level="project" />
+    <orderEntry type="library" name="com.typesafe.akka_akka-actor_2.0" level="project" />
+    <orderEntry type="library" name="net.databinder.giter8_giter8_2.9.1_0.4.5" level="project" />
+    <orderEntry type="library" name="net.databinder.giter8_giter8-lib_2.9.1_0.4.5" level="project" />
+    <orderEntry type="library" name="org.clapper_scalasti_2.9.1_0.5.5" level="project" />
+    <orderEntry type="library" name="org.clapper_grizzled-scala_2.9.1_1.0.8" level="project" />
+    <orderEntry type="library" name="jline_jline_0.9.94" level="project" />
+    <orderEntry type="library" name="junit_junit_3.8.1" level="project" />
+    <orderEntry type="library" name="org.clapper_classutil_2.9.1_0.4.2" level="project" />
+    <orderEntry type="library" name="asm_asm_3.3" level="project" />
+    <orderEntry type="library" name="asm_asm-commons_3.3" level="project" />
+    <orderEntry type="library" name="asm_asm-tree_3.3" level="project" />
+    <orderEntry type="library" name="asm_asm-util_3.3" level="project" />
+    <orderEntry type="library" name="org.clapper_grizzled-slf4j_2.9.1_0.6.5" level="project" />
+    <orderEntry type="library" name="org.slf4j_slf4j-api_1.6.2" level="project" />
+    <orderEntry type="library" name="org.antlr_stringtemplate_3.2.1" level="project" />
+    <orderEntry type="library" name="antlr_antlr_2.7.7" level="project" />
+    <orderEntry type="library" name="me.lessis_ls_2.9.1_0.1.2-RC2" level="project" />
+    <orderEntry type="library" name="net.databinder_dispatch-http_2.9.1_0.8.6" level="project" />
+    <orderEntry type="library" name="net.databinder_dispatch-core_2.9.1_0.8.6" level="project" />
+    <orderEntry type="library" name="org.apache.httpcomponents_httpclient_4.1.2" level="project" />
+    <orderEntry type="library" name="org.apache.httpcomponents_httpcore_4.1.2" level="project" />
+    <orderEntry type="library" name="commons-logging_commons-logging_1.1.1" level="project" />
+    <orderEntry type="library" name="commons-codec_commons-codec_1.4" level="project" />
+    <orderEntry type="library" name="net.databinder_dispatch-futures_2.9.1_0.8.6" level="project" />
+    <orderEntry type="library" name="net.databinder_dispatch-lift-json_2.9.1_0.8.5" level="project" />
+    <orderEntry type="library" name="net.liftweb_lift-json_2.9.0-1_2.4-M3" level="project" />
+    <orderEntry type="library" name="com.thoughtworks.paranamer_paranamer_2.3" level="project" />
+    <orderEntry type="library" name="org.scala-lang_scalap_2.9.0-1" level="project" />
+    <orderEntry type="library" name="org.scala-lang_scala-compiler_2.9.1" level="project" />
+    <orderEntry type="library" name="actions_2.9.1-0.11.3.jar" level="project" />
+    <orderEntry type="library" name="api_2.9.1-0.11.3.jar" level="project" />
+    <orderEntry type="library" name="cache_2.9.1-0.11.3.jar" level="project" />
+    <orderEntry type="library" name="classfile_2.9.1-0.11.3.jar" level="project" />
+    <orderEntry type="library" name="classpath_2.9.1-0.11.3.jar" level="project" />
+    <orderEntry type="library" name="collections_2.9.1-0.11.3.jar" level="project" />
+    <orderEntry type="library" name="commons-codec-1.2.jar" level="project" />
+    <orderEntry type="library" name="commons-httpclient-3.1.jar" level="project" />
+    <orderEntry type="library" name="commons-logging-1.0.4.jar" level="project" />
+    <orderEntry type="library" name="compile_2.9.1-0.11.3.jar" level="project" />
+    <orderEntry type="library" name="completion_2.9.1-0.11.3.jar" level="project" />
+    <orderEntry type="library" name="control_2.9.1-0.11.3.jar" level="project" />
+    <orderEntry type="library" name="incremental-compiler_2.9.1-0.11.3.jar" level="project" />
+    <orderEntry type="library" name="io_2.9.1-0.11.3.jar" level="project" />
+    <orderEntry type="library" name="ivy-2.2.0.jar" level="project" />
+    <orderEntry type="library" name="ivy_2.9.1-0.11.3.jar" level="project" />
+    <orderEntry type="library" name="jline-0.9.94.jar" level="project" />
+    <orderEntry type="library" name="jsch-0.1.46.jar" level="project" />
+    <orderEntry type="library" name="launcher-interface_2.9.1-0.11.3.jar" level="project" />
+    <orderEntry type="library" name="logging_2.9.1-0.11.3.jar" level="project" />
+    <orderEntry type="library" name="main_2.9.1-0.11.3.jar" level="project" />
+    <orderEntry type="library" name="persist_2.9.1-0.11.3.jar" level="project" />
+    <orderEntry type="library" name="process_2.9.1-0.11.3.jar" level="project" />
+    <orderEntry type="library" name="run_2.9.1-0.11.3.jar" level="project" />
+    <orderEntry type="library" name="sbinary_2.9.0-0.4.0.jar" level="project" />
+    <orderEntry type="library" name="sbt_2.9.1-0.11.3.jar" level="project" />
+    <orderEntry type="library" name="task-system_2.9.1-0.11.3.jar" level="project" />
+    <orderEntry type="library" name="tasks_2.9.1-0.11.3.jar" level="project" />
+    <orderEntry type="library" name="test-interface-0.5.jar" level="project" />
+    <orderEntry type="library" name="testing_2.9.1-0.11.3.jar" level="project" />
+    <orderEntry type="library" name="tracking_2.9.1-0.11.3.jar" level="project" />
+    <orderEntry type="library" name="interface-0.11.3.jar" level="project" />
+    <orderEntry type="library" name="jline.jar" level="project" />
+  </component>
+</module>
+

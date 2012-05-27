@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="org.apache.jena_jena-arq_2.9.0-incubating">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../repository/cache/org.apache.jena/jena-arq/jars/jena-arq-2.9.0-incubating.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../repository/cache/org.apache.jena/jena-arq/docs/jena-arq-2.9.0-incubating-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../repository/cache/org.apache.jena/jena-arq/srcs/jena-arq-2.9.0-incubating-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

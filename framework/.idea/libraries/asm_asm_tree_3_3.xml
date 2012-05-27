@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="asm_asm-tree_3.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../repository/cache/asm/asm-tree/jars/asm-tree-3.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

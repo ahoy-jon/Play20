@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="com.google.javascript_closure-compiler_r1810">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../repository/cache/com.google.javascript/closure-compiler/jars/closure-compiler-r1810.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

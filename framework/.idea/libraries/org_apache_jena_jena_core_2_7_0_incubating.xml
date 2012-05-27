@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="org.apache.jena_jena-core_2.7.0-incubating">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../repository/cache/org.apache.jena/jena-core/jars/jena-core-2.7.0-incubating.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../repository/cache/org.apache.jena/jena-core/docs/jena-core-2.7.0-incubating-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../repository/cache/org.apache.jena/jena-core/srcs/jena-core-2.7.0-incubating-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

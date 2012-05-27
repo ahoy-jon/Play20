@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="org.apache.abdera_abdera-i18n_1.1.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../repository/cache/org.apache.abdera/abdera-i18n/bundles/abdera-i18n-1.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../repository/cache/org.apache.abdera/abdera-i18n/srcs/abdera-i18n-1.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

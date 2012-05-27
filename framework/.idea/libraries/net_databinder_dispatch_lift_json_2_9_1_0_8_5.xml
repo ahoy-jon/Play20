@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="net.databinder_dispatch-lift-json_2.9.1_0.8.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../repository/cache/net.databinder/dispatch-lift-json_2.9.1/jars/dispatch-lift-json_2.9.1-0.8.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
